@@ -1,0 +1,39 @@
+# Housing Price Analysis – Kaggle Project
+
+## Overview
+This project analyzes the Kaggle "House Prices – Advanced Regression Techniques" dataset.
+The objective is to explore the dataset, identify key price drivers, and build a regression model to predict house sale prices.
+
+## Dataset
+- train.csv
+- test.csv
+- data_description.txt
+
+Source: Kaggle Competition
+
+## Project Structure
+housing-price-analysis/
+│
+├── data/
+│   ├── train.csv
+│   ├── test.csv
+│   └── data_description.txt
+│
+├── housing_analysis.ipynb
+└── README.md
+
+## Objectives
+- Perform exploratory data analysis (EDA)
+- Handle missing values
+- Engineer meaningful features
+- Build a regression model
+- Evaluate performance
+
+## Tools
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+## Status
